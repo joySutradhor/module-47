@@ -54,7 +54,7 @@ const ShowData =(props)=>{
   return (
     <div>
         <h4>Name : {props.name}</h4>
-        
+        <h2>test</h2>
     </div>
   )
 }
